@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675279826 source:c:\documents\c programs\weekly payroll program\main.c
+	<stdio.h>
+	<stdlib.h>
+
